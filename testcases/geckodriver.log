@@ -1,0 +1,125 @@
+1652538754374	geckodriver	INFO	Listening on 127.0.0.1:65018
+1652538757418	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65019" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aashi\\AppData\\Local\\Temp\\rust_mozprofiletf664A"
+1652538759096	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aashi\\AppData\\Local\\Temp\\rust_mozprofiletf664A\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65019/devtools/browser/10ab1f58-9c71-4e07-9bf7-0e246356c44f
+1652538762775	Marionette	INFO	Listening on port 65046
+Read port: 65046
+1652538762912	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Yd3cEgPtLOfKcy7GxWkHziCM9jl-6RVWGk-YTJsF5Kc.js line 1 > eval line 6249 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652538783390	Marionette	INFO	Stopped listening on port 65046
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1652538843772	geckodriver	INFO	Listening on 127.0.0.1:65108
+1652538846786	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65109" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aashi\\AppData\\Local\\Temp\\rust_mozprofile54pvVN"
+1652538847546	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aashi\\AppData\\Local\\Temp\\rust_mozprofile54pvVN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65109/devtools/browser/3006a33b-3263-4bf9-ba06-b3bf473d2ba7
+1652538851007	Marionette	INFO	Listening on port 65134
+Read port: 65134
+1652538851143	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.guru99.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.guru99.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652538854958	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Yd3cEgPtLOfKcy7GxWkHziCM9jl-6RVWGk-YTJsF5Kc.js line 1 > eval line 3790 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Yd3cEgPtLOfKcy7GxWkHziCM9jl-6RVWGk-YTJsF5Kc.js line 1 > eval line 6450 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Yd3cEgPtLOfKcy7GxWkHziCM9jl-6RVWGk-YTJsF5Kc.js line 1 > eval line 6176 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652538906091	Marionette	INFO	Stopped listening on port 65134
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652539063294	geckodriver	INFO	Listening on 127.0.0.1:65224
+1652539066327	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65225" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aashi\\AppData\\Local\\Temp\\rust_mozprofileInBhmX"
+1652539067172	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aashi\\AppData\\Local\\Temp\\rust_mozprofileInBhmX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65225/devtools/browser/3843dd49-44a0-48c8-9932-d6e12a56ccce
+1652539070534	Marionette	INFO	Listening on port 65251
+Read port: 65251
+1652539070581	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.guru99.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.guru99.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652539074070	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Yd3cEgPtLOfKcy7GxWkHziCM9jl-6RVWGk-YTJsF5Kc.js line 1 > eval line 5121 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Yd3cEgPtLOfKcy7GxWkHziCM9jl-6RVWGk-YTJsF5Kc.js line 1 > eval line 4860 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Yd3cEgPtLOfKcy7GxWkHziCM9jl-6RVWGk-YTJsF5Kc.js line 1 > eval line 841 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652539087709	Marionette	INFO	Stopped listening on port 65251
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652539778143	geckodriver	INFO	Listening on 127.0.0.1:52247
+1652539781185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52248" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aashi\\AppData\\Local\\Temp\\rust_mozprofilev0bSmU"
+1652539782009	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aashi\\AppData\\Local\\Temp\\rust_mozprofilev0bSmU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52248/devtools/browser/97e7b488-39e1-46b3-8d59-02f738d3f23d
+1652539785451	Marionette	INFO	Listening on port 52273
+Read port: 52273
+1652539785590	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.guru99.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.guru99.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652539792140	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Yd3cEgPtLOfKcy7GxWkHziCM9jl-6RVWGk-YTJsF5Kc.js line 1 > eval line 4776 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Yd3cEgPtLOfKcy7GxWkHziCM9jl-6RVWGk-YTJsF5Kc.js line 1 > eval line 943 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Yd3cEgPtLOfKcy7GxWkHziCM9jl-6RVWGk-YTJsF5Kc.js line 1 > eval line 321 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Yd3cEgPtLOfKcy7GxWkHziCM9jl-6RVWGk-YTJsF5Kc.js line 1 > eval line 4207 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Panel inspector:" (new TypeError("event is undefined", "resource://devtools/client/shared/telemetry.js", 700))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1652543072120	Marionette	INFO	Stopped listening on port 52273
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ line 1 > eval line 5798 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Yd3cEgPtLOfKcy7GxWkHziCM9jl-6RVWGk-YTJsF5Kc.js line 1 > eval line 4169 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652543070982	Marionette	INFO	Stopped listening on port 51604
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 898: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1652543074185	geckodriver	INFO	Listening on 127.0.0.1:51683
+1652543077227	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51684" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aashi\\AppData\\Local\\Temp\\rust_mozprofileXYJnw0"
+1652543077973	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aashi\\AppData\\Local\\Temp\\rust_mozprofileXYJnw0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51684/devtools/browser/784f3a11-ca7c-487c-aa49-0b8d701a0904
+1652543081117	Marionette	INFO	Listening on port 51709
+Read port: 51709
+1652543081237	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Yd3cEgPtLOfKcy7GxWkHziCM9jl-6RVWGk-YTJsF5Kc.js line 1 > eval line 4918 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.guru99.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.guru99.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652543106269	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652543106617	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Yd3cEgPtLOfKcy7GxWkHziCM9jl-6RVWGk-YTJsF5Kc.js line 1 > eval line 2560 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Yd3cEgPtLOfKcy7GxWkHziCM9jl-6RVWGk-YTJsF5Kc.js line 1 > eval line 7399 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652543302229	geckodriver	INFO	Listening on 127.0.0.1:53629
+1652543305282	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53630" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aashi\\AppData\\Local\\Temp\\rust_mozprofileLgZxDM"
+1652543306112	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Aashi\\AppData\\Local\\Temp\\rust_mozprofileLgZxDM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53630/devtools/browser/5fdde4b8-27f5-47f7-9c3a-4b0ada72d292
+1652543309303	Marionette	INFO	Listening on port 53654
+Read port: 53654
+1652543309422	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.guru99.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.guru99.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652543312828	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.guru99.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.guru99.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652543316823	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Yd3cEgPtLOfKcy7GxWkHziCM9jl-6RVWGk-YTJsF5Kc.js line 1 > eval line 1463 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Yd3cEgPtLOfKcy7GxWkHziCM9jl-6RVWGk-YTJsF5Kc.js line 1 > eval line 5783 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\Aashi\AppData\Local\Temp\rust_mozprofileLgZxDM\bookmarkbackups\bookmarks-2022-05-14_11_-E-o-10TiijkDQNoCsjwtA==.jsonlz4) because it does not exist
+1652606743781	Marionette	INFO	Stopped listening on port 53654
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
